@@ -38,3 +38,10 @@ Spring + SpringMVC + mybaitis
 
 jiefei30
 
+#### 预览
+
+![](https://file.makeyourchoice.cn/img/github/imdb1.jpg)
+
+![](https://file.makeyourchoice.cn/img/github/imdb2.jpg)
+
+![](https://file.makeyourchoice.cn/img/github/imdb3.jpg)
